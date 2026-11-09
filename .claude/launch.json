@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ink-blanes",
+      "runtimeExecutable": "powershell",
+      "runtimeArgs": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "C:\\Users\\miron\\Documents\\CLAUDE WEBS\\ink-blanes-tattoo-shop\\.claude\\serve.ps1", "-Root", "C:\\Users\\miron\\Documents\\CLAUDE WEBS\\ink-blanes-tattoo-shop", "-Port", "4173"],
+      "port": 4173
+    }
+  ]
+}
